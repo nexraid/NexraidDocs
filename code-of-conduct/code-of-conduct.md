@@ -8,7 +8,7 @@ keywords:
   - CodeOfConduct
   - nexraid
   - docs
-  - CpenSource
+  - OpenSource
 sidebar: CodeOfConduct
 date: 2020-01-05
 version_date: 2020-01-05
