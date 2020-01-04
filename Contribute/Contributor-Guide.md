@@ -41,7 +41,7 @@ Quick edits streamline the process to report and fix small errors and omissions 
 
 1. Some docs pages allow you to edit content directly in the browser. If so, you'll see an **Edit** button like the one shown below. Clicking the **Edit** (or equivalently localized) button takes you to the source file on GitHub. If the **Edit** button (pencil icon without text) is missing, that means the documentation page is not available to be changed.
 
-   ![Location of the Edit link](./media/images/github-edit-article.png)
+   ![Location of the Edit link](././media/images/github-edit-article.png)
 
 2. Next, click the pencil icon, to edit the article as shown. If the pencil icon is grayed out, you need to either login to your GitHub account or create a new account. 
 
