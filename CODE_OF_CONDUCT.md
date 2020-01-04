@@ -1,3 +1,23 @@
+---
+uuid: 2e7a7188-0b19-4fbe-adca-55cec561376f
+draft: true
+title: "Code of Conduct"
+path: /code-of-conduct
+description: "Contributor Covenant Code of Conduct"
+keywords: 
+  - CodeOfConduct
+  - nexraid
+  - docs
+  - CpenSource
+sidebar: CodeOfConduct
+date: 2020-01-05
+version_date: 2020-01-05
+version_name: 1.0.0
+version_changelog: First version
+author: lunghao
+manager: lunghao
+---
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
