@@ -8,7 +8,7 @@ This guide covers some general topics around contribution and refers out to our 
 ## Code of Conduct
 
 This project has adopted the [Nexraid Open Source Code of Conduct](https://docs.nexraid.com/codeofconduct/).
-For more information, please contact [support@microsoft.com](mailto:support@microsoft.com) with any additional questions or comments.
+For more information, please contact [support@nexraid.com](mailto:support@nexraid.com) with any additional questions or comments.
 
 
 ## How can I contribute?
