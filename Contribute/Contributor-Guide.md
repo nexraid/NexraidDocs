@@ -41,22 +41,22 @@ Quick edits streamline the process to report and fix small errors and omissions 
 
 1. Some docs pages allow you to edit content directly in the browser. If so, you'll see an **Edit** button like the one shown below. Clicking the **Edit** (or equivalently localized) button takes you to the source file on GitHub. If the **Edit** button (pencil icon without text) is missing, that means the documentation page is not available to be changed.
 
-   ![Location of the Edit link](../../media/images/github-edit-article.png)
+   ![Location of the Edit link](../media/images/github-edit-article.png)
 
 2. Next, click the pencil icon, to edit the article as shown. If the pencil icon is grayed out, you need to either login to your GitHub account or create a new account. 
 
-   ![Location of the pencil icon](../../media/images/github-edit-icon.png)
+   ![Location of the pencil icon](../media/images/github-edit-icon.png)
 
 
 3. Make your changes in the web editor. Click the **Preview changes** tab to check the formatting of your change.
 
 4. Once you have made your changes, scroll to the bottom of the page. Enter a title and description for your changes and click **Propose file change** as shown in the following figure:
 
-   ![Propose file change](../../media/images/github-submit-pull-request.png)
+   ![Propose file change](../media/images/github-submit-pull-request.png)
 
 5. Now that you've proposed your change, you need to ask the owners of the repository to "pull" your changes into their repository. This is done using something called a "pull request". When you clicked on **Propose file change** in the figure above, you should have been taken to a new page that looks like the following figure:
 
-   ![create pull request](../../media/images/github-create-pull-request.png)
+   ![create pull request](../media/images/github-create-pull-request.png)
 
    Click **Create pull request**, enter a title (and optionally a description) for the pull request, and then click **Create pull request** again. (If you are new to GitHub, see [About Pull Requests](https://help.github.com/en/articles/about-pull-requests) for more information.)
 
