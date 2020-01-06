@@ -1,0 +1,14 @@
+{
+  "name": "checker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "test": "node check-sidebars && node check-metadata"
+  },
+  "dependencies": {
+    "glob": "^7.1.6",
+    "js-yaml": "^3.13.1"
+  }
+}

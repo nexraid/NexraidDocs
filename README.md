@@ -14,8 +14,6 @@ You've decided to contribute, that's great! To contribute to the documentation, 
 
 Contributing to the documentation requires a GitHub account. If you don't have an account, follow the instructions for the [GitHub account setup](/Contribute/GitHub-Account-Setup.md) from our contributor guide.
 
-
-
 #### Download
 
 Install the following tools:
@@ -27,6 +25,15 @@ Install the following tools:
 #### Install
 
 Follow the instructions provided in the [Install content authoring tools](https://docs.microsoft.com/contribute/get-started-setup-tools) from our contributor guide.
+
+#### Project Structure
+
+- `checker`: an Node.js checker project for this document repository
+- `documents`: directory for all document markdown files
+- `media`: directory for all media files that will be used in documents
+    - `images`: The image files in this directory could be used in document markdown file like this: `![](../media/images/img.png)`
+    - `assets`: The asset files in this directory could be visisted by URI like this: `/assets/file.zip`
+- `sidebars`: directory for all sidebar definition files
 
 ## License
 

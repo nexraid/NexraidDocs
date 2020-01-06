@@ -1,0 +1,15 @@
+language: node_js
+
+os:
+  - linux
+
+node_js:
+  - "node" # latest stable Node.js release
+
+before_script:
+  - cd checker && yarn install
+
+script: cd checker && yarn test
+
+notifications:
+  email: false
