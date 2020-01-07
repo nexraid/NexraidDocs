@@ -1,11 +1,9 @@
 - groups:
   - group: Introduction
     items:
-      - title: Contributing to Nexraid Documentation
-        link: /contribute
-  - group: Guide
+      - title: Nexraid Culture
+        link: /Culture
+  - group: Statement
     items:
-      - title: Contributor Guide
-        link: /contribute/contributor-guide
-      - title: GitHub Account Setup
-        link: /Contribute/github-account-setup
+      - title: Equal Opportunities Statement
+        link: /Culture/Equal-Opportunities-Statement
