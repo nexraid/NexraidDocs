@@ -30,6 +30,7 @@ Follow the instructions provided in the [Install content authoring tools](https:
 
 - `checker`: an Node.js checker project for this document repository
 - `documents`: directory for all document markdown files
+- `snippets`: directory for all snippet files. These files can be used in document markdown files like this: `[@include example include](Example-Snippet.md)`
 - `media`: directory for all media files that will be used in documents
     - `images`: The image files in this directory could be used in document markdown file like this: `![](../media/images/img.png)`
     - `assets`: The asset files in this directory could be visisted by URI like this: `/assets/file.zip`
