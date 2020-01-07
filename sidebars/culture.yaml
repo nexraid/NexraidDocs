@@ -1,0 +1,9 @@
+- groups:
+  - group: Introduction
+    items:
+      - title: Nexraid Culture
+        link: /Culture
+  - group: Statement
+    items:
+      - title: Equal Opportunities Statement
+        link: /Culture/Equal-Opportunities-Statement
