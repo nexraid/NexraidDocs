@@ -1,0 +1,9 @@
+- groups:
+  - group: Introduction
+    items:
+      - title: Support Overview
+        link: /Support/Overview
+      - title: Support Contact Options
+        link: /Support/Contact-Options
+      - title: Product Support Lifecycle
+        link: /Support/Product-Support-Lifecycle
