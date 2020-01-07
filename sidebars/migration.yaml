@@ -1,0 +1,9 @@
+- groups:
+  - group: Introduction
+    items:
+      - title: Migration Overview
+        link: /migration
+  - group: Products
+    items:
+      - title: Migrate to Office 365
+        link: /Migration/Office-365/
