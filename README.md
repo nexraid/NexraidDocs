@@ -1,5 +1,7 @@
 # Nexraid Documentation
 
+[![Build Status](https://travis-ci.org/nexraid/NexraidDocs.svg?branch=master)](https://travis-ci.org/nexraid/NexraidDocs)
+
 Welcome to the open-source [documentation](https://docs.nexraid.com) of [Nexraid](https://www.nexraid.com). Please review this README file to understand how you can assist in contributing to the Nexraid documentation.
 
 
