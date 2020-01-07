@@ -7,9 +7,9 @@ node_js:
   - "node" # latest stable Node.js release
 
 before_script:
-  - cd checker && yarn install
+  - pushd checker && yarn install && popd
 
-script: cd checker && yarn test
+script: pushd checker && yarn test && popd
 
 notifications:
   email: false
