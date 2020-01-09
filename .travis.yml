@@ -3,6 +3,10 @@ language: node_js
 os:
   - linux
 
+branches:
+  except:
+    - draft
+
 node_js:
   - "node" # latest stable Node.js release
 
