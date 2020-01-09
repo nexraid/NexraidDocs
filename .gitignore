@@ -1,3 +1,4 @@
+local-config.bash
 version.yaml
 node_modules
 Thumbs.db
