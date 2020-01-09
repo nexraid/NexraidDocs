@@ -1,0 +1,186 @@
+---
+uuid: 373ba550-68c6-48eb-b1a4-64c95893624b
+draft: false
+title: "Information Security Policy"
+path: /Information-Security/Information-Security-Policy
+description: "Information Security Policy of Nexraid Consulting"
+keywords: 
+  - information
+  - security
+  - informationSecurity
+  - data
+  - protection
+  - policy
+  - guideline
+  - nexraid
+  - docs
+  - openSource
+sidebar: information-security
+date: 2020-01-10
+version_date: 2020-01-10
+version_name: 1.0.0
+version_changelog: First version
+author: kiathan
+manager: lunghao
+---
+
+
+# Nexraid Information Security Policy
+## Introduction
+NexRaid Consulting Pte Ltd (NexRaid) and all entities therein handles information relating to its business partners, employees, service providers and its own business operations. Some of this information is business sensitive and includes intellectual property (IP) which requires specific controls relating to its authorised access or use. In the evolving digital age, information has become a high-value commodity and business asset that is extremely portable. Information may be obtained or become accessible in various ways including (but not limited to) through electronic devices and transmission, hardcopy (printed) format, and the spoken word. The security and integrity of this business information and systems is extremely important to NexRaid and there is a legal and moral obligation to ensure they are afforded appropriate protection in order to preserve our reputation, brand and credibility.
+
+
+## Definition of Document
+Please refer to [Definition and Abbreviation](https://docs.nexraid.com/Definition-and-Abbreviation)
+
+## Scope of Document
+The scope of this Information Security Policy encompasses all business entities within NexRaid, including, but not limited to:
+1. All locations where business activities are conducted, and information is processed;
+2. All business information processed, stored or transmitted throughout NexRaid irrespective of its form.
+3. All software, hardware and information repositories;
+4. All types of electronic storage and hardcopy files / facilities; examples include:
+	1. Customer and partner information, reports, (i.e. all personal and financial records, information and business correspondence);
+	2. Commercial plans, records, internal and external audit reports, information systems technical configurations and minutes of Trustee / Board / Executive meetings;
+	3. Employee records and personal information contained therein.
+5. Information technology (IT) systems and applications pursuant of operational business activities, incorporating telephony systems:
+6. External parties providing services in respect of information processing facilities that support NexRaid’s business activities;
+
+## Purpose
+The objectives of this policy are to:
+1. Define the high-level information security governance practices and principles that are to be employed throughout NexRaid in order to address all possible known and perceived threats to information security, whether external, internal, deliberate or accidental;
+2. Make certain that NexRaid complies with relevant legislation, regulation and best practices for the protection of its IP, brand and reputation;
+3. Provide a governance framework for information security that ensures the integrity and continuity of business systems, whilst protecting those systems and associated processes from known or perceived cyber security threats;
+4. Protect the security interests of the company, its customers, clients, partners, investors, shareholders and employees.
+
+
+## Policy Statements
+NexRaid shall make certain that it:
+1. Plans, implements and controls the processes necessary to meet Information Security requirements through risk assessment;
+2. Information Security objectives shall be planned and documented to the extent necessary to give confidence that the processes have been achieved as intended;
+3. An inventory of information assets shall be maintained;
+4. The flow for sensitive information throughout business / IT systems will be created and maintained (which may be in a diverse variety of forms) in order to:
+	1. Support the delivery of business priorities;
+	2. Provide evidence of actions and activities.
+5. Information processes and supporting technologies shall incorporate Privacy / Security-by Design in order to reduce the risks associated with unauthorised access, disclosure, abuse or destruction;
+6. The methods, technologies and processes employed to protect and safeguard the NexRaid’s IP shall be proportionate and commensurate to the potential threats and business risks;
+7. Business (sensitive) information must not be communicated / transferred to any other party whether internal or external without an explicit authorisation and business justification to do so;
+8. Access to all IT systems and information shall be denied by default, unless a specific, valid, and authorised request for access has been processed;
+9. The Confidentiality and Integrity of information assets is to be maintained at all times;
+10. Business records, papers (hard copy materials) are afforded appropriate levels of protection commensurate to their value and shall be controlled to prevent their loss, unauthorised destruction, falsification, dissemination or access;
+11. Statutory, expressed and implied legal, regulatory and contractual obligations shall be met;
+12. Hardware, software / applications, documentation and other materials may only be used in accordance with contracted agreements and copyright laws;
+13. Technology assets used to facilitate the processing of business information remains corporate property and are to be retrieved upon the termination of employment, contract or agreement;
+14. Business Continuity and Incident Response plans shall be produced, maintained and exercised at least annually;
+15. Unauthorised use of information assets / processing facilities shall be prohibited;
+16. There shall be formal user registration and de-registration procedures in place for granting and revoking access to all information systems, applications and business processes;
+17. Access rights to all business systems and information shall be revoked immediately upon an individual’s termination of employment, contract or agreement;
+18. Documentation, i.e. Operating Standards / Procedures, to accurately reflect systems design and technical control implementation for the protection of NexRaid’s IT processing facilities and information assets shall be maintained at all times. This documentation shall:
+	1. define appropriate maintenance, security features and functions;
+	2. be afforded protection from unauthorised access and manipulation;
+	3. be updated where appropriate as part of Change Management processes such that it accurately reflects the current live/production systems;
+	4. define the department (or job title) with responsibility for maintaining it;
+	5. contain appropriate document controls, i.e. Title, Version and date.
+19. Breaches of information security, actual or suspected, against information systems, premises and the information contained therein (irrespective of its form) shall be reported and investigated in accordance with the Incident Response policy;
+20. The Executive Board will oversee the maintenance of an active information security programme to reduce potential business risks and unauthorised exposures;
+21. The information security programme will be reviewed at least quarterly and revised as appropriate to address organisational, legal or regulatory changes or problems identified during the implementation of program elements, security control or technical assessments, internal or external audits or as a consequence of risks assessment;
+22. This Information Security Policy and all other supporting policies and procedures shall be communicated as necessary throughout NexRaid to meet business objectives and requirements.
+23. Use of personal devices to access corporate network is prohibited.
+
+## Use of Third Parties
+1. The risks associated with engaging a third party to conduct business operations on behalf of NexRaid shall be identified, assessed and appropriately managed.
+2. Where third parties store, process or transmit NexRaid information or maintain IT processing facilities, a formal contract shall be in place which defines the security requirements of the relationship including a definition of responsibilities and expected behaviours.
+3. Where third parties store or process personal (sensitive personal) information as defined by the Personal Data Protection Act 2012, a Data Processor Agreement shall be in place that explicitly defines the processors responsibilities and obligations.
+4. NexRaid shall undertake appropriate due diligence prior to formal contractual agreements being signed and shall conduct periodic reviews to ensure that service delivery targets and standards are met during the ‘term’ of the agreement.
+5. Procedures shall be implemented and applied to manage change and for the identification, reporting and management of information security incidents that could impact the service delivery.
+6. The roles and responsibilities of third parties in relation to business continuity and incident response are to be addressed alongside the business objectives.
+7. Contracts with third parties shall consider the inclusion of exit strategies and provide NexRaid the right to conduct due diligence reviews of the (cyber) information security processes and procedures at its discretion but with appropriate notification.
+
+## Responsibilities
+NexRaid will assign and delegate appropriate roles and responsibilities for Information Security Management to meet the strategic aims and business objectives;
+1. The Information Security Manager is accountable and responsible for ensuring that Information Security requirements are met and periodically measured to ensure their effectiveness and appropriateness for business needs.
+2. Other security policies, authorised by the Risk/Compliance Group supporting operational processes and Operating Standards shall be produced in support of this Information Security Policy and maintained for information assets and information processing facilities and will be authorised by.
+
+## Risk Management
+1. NexRaid will employ a systematic approach based upon recognised methodologies for the assessment, management and acceptance of business risks in order to create an effective operational security framework that incorporates secure-by-design.
+2. Risk acceptance will be authorised by the Information Security Manager on behalf of the organisation.
+3. Information security shall be addressed at the earliest stages of project management, to incorporate ‘Privacy-by-Design’ irrespective of the type of the project in order to ensure that:
+	1. Information security risks are assessed through a Privacy Impact Assessment (PIA) to identify necessary controls in consideration to the potential threats and vulnerabilities to which the business may be exposed so that appropriate controls and mitigation is considered and implemented.
+4. Risk assessments are to include the likelihood and magnitude of harm that could arise from any unauthorised access (logical or physical), use, disclosure, disruption, modification or destruction of the information systems, systems infrastructure and information stored, processed or transmitted within it.
+5. NexRaid will apply annual risk assessments, of key areas of IT and information processing activities to identify any threats and associated technical vulnerabilities that have the potential to provide a negative impact upon business operations, systems or processes. Furthermore, during the operational delivery and maintenance of the businesses technical infrastructure, systems and processes there may be instances where additional risk assessment activity is necessary.
+
+## Accountability
+The Executive Management Team shall ensure that appropriate information security requirements have been appropriately considered and applied proportionately based upon legal and regulatory obligations, risk assessment and business needs controls are, legal and regulatory controls are identified, implemented and maintained throughout the company.
+The Executive Management Team commit to:
+1. Approving and endorsing this policy and delegating the approval of all subsidiary policies, operating standards and procedures used throughout the company to the Risk/Security Steering Group;
+2. Treating information security as a critical business issue;
+3. Supporting the implementation, operation and maintenance of an information security program;
+4. Creating a culture of security-awareness throughout the organisation;
+5. Implementing controls that are proportionate to risk;
+6. Achieving accountability throughout the company as appropriate for compliance with governance policies and supporting procedures;
+7. Assigning information security responsibilities to the appropriate senior level of management and providing them with the mission and resources to coordinate, develop, implement and maintain a suitable information security program;
+8. Disseminating policies and communicating them to all employees and relevant external third parties and service providers in support of business operations;
+9. Continually assessing and improving the effectiveness of information security through internal and external audits, technical and vulnerability testing, management reviews and analysis of security incidents or complaints. Corrective Action Plans (CAP) shall be initiated to track and record the improvements to the security baseline and controls. Items raised in the CAP shall be recorded in risk registers until such times as they are resolved.
+
+## Information Protection
+Information is an invaluable business asset. By its very nature some information processed, stored and transmitted internally and externally of NexRaid is sensitive and consequently requires suitable protection to safeguard it from unauthorised access, manipulation, disclosure or destruction.
+An information protective marking scheme shall be used to indicate the need and priority for security protection so that:
+1. The appropriate level of sensitivity of information is recognised;
+2. The appropriate method of handling and storing the information is identified and applied;
+3. Employees are aware of different sensitivity levels and can apply appropriate controls to the information they process in the course of their business activities
+4. Information is retained, handled and processed in accordance with applicable laws, regulations, Executive Orders, Directives, policies and business operational requirements.
+
+## Information Classification
+NexRaid will take every effort to ensure that information assets receive appropriate protection commensurate to the risks associated with the potential damage that could be caused through its misuse. An information protection marking scheme shall be used to indicate the need and priority for security protection so that:
+1. The appropriate level of sensitivity of information is recognised;
+2. The appropriate method of handling and storing the information is identified and applied;
+3. Employees are aware of different sensitivity levels and can apply appropriate controls to the information they process in the course of their business activities
+4. Information is retained, handled and processed in accordance with applicable laws, regulations, Executive Orders, Directives, policies and business operational requirements.
+
+NexRaid will employ five levels of protective marking:
+* Secret – information that requires highest level of protection and confidentiality
+* Confidential – information that requires a greater level of protection within the organization to prevent its unauthorised access and use;
+* Protected – information that requires sufficient level of protection to prevent its unauthorised access and use;
+* Internal – information intended for use within NexRaid, and its appropriately authorised business partners;
+* Public – materials and business information authorised for routine disclosure and dissemination to all employees, third party suppliers, customers and the general public.
+
+Further details can be found in the Information Classification Policy.
+
+## Screening
+1. NexRaid is to make sure there are robust processes in place to minimise, mitigate and manage the risks posed by people from both inside and outside the company including its business partners, suppliers and customers.
+2. Screening and background verification shall be undertaken on prospective employees, contractors and part-time personnel commensurate to their job role or function that considers the potential exposures and risks they pose to the business.
+3. Screening is to be completed prior to granting access to business information and information systems.
+4. Positions that have regular access to business sensitive information may be rescreened at appropriate intervals, and at the company’s discretion, to safeguard against additional risks or concerns regarding the individual’s continued suitability to access such information.
+5. Third-party service providers engaged in supporting the information technology and the processing of business information may be required to verify they follow suitable processes to screen their employees.
+
+## Information Security Reviews
+1. NexRaid will develop appropriate processes to monitor and report at periodic intervals through the various Boards to the Trustees on the performance and effectiveness of the information security program.
+2. Policies and Operating Standards are to be reviewed at least annually, and at other times as dictated by operational needs or as consequence of changing legal or regulatory obligations.
+3. Technical testing, (i.e. internal and external penetration and vulnerability tests, rogue wireless scans, code reviews) shall be conducted at least annually or after any significant change, to identify potential systems weaknesses and vulnerabilities, to warrant that security controls have been implemented correctly and are not being circumvented.
+4. Risk assessments will contribute to the Information security review process.
+
+## Information Security Awareness, Education and Training
+1. NexRaid will make certain that all employees, including where relevant contractors and third-party service providers, receive appropriate security awareness training relevant to their job role and business function and are able to contribute to an effective security culture.
+2. Training will be incorporated into initial induction programs and at least annually thereafter, or as required to meet any legal / regulatory requirement, and to address systems or business process changes. Various methods and media are to be used to communicate the appropriate messages.
+
+## Legal and Regulatory Constraints
+1. NexRaid will take steps to adhere and comply with all legal and regulatory obligations and constraints associated with information security, fraud and theft prevention and detection.
+2. NexRaid will take reasonable and proportionate actions to facilitate and assist law enforcement agencies (and other appropriately authorised investigators) pursuant of their duties and responsibilities, and in this respect shall make available in a timely manner all records, audit trails, system logs as may be requested by them by legal authority (i.e. subpoena, court order, search warrant, etc.).
+
+## Data Protection Officer
+In accordance with legal obligations and responsibilities to comply with the Singapore Personal Data Protection Act 2012 (or other Regulations and legal requirements in other jurisdictions), the Data Protection Officer is responsible on behalf of the Executive Board for discharging the duties and responsibilities as Data Controller. Further details and explanations can be found in the Data Protection Policy.
+
+## Audit
+1. Audit requirements and activities are to be carefully planned, scheduled, agreed and maintained to minimise disruption to business processes, systems and operations.
+2. The objectivity and impartiality of auditors and their audit program shall be guaranteed by the appropriate selection of either internal or external third-party auditors.
+3. Auditing shall assess and verify the commitment and levels of compliance with legal and regulatory requirements, adherence with corporate policy, Operating Standards, Executive orders or other such instructions as have been communicated.
+4. The identification of any significant departure from the governance requirements or established procedures, in accordance with defined technology requirements which could affect compliance shall be reported to the appropriate business management for remediation and mitigation action. Any significant shortfalls are to be incorporated into the Risk Register, assigned a business owner and have an action plan for its remediation.
+5. Audit materials are to be afforded protection commensurate to the value and sensitivity of the information contained therein to prevent possible misuse, compromise, access or dissemination.
+6. Systems audit and security logs for all business-critical systems and processes shall be retained for at least one year with a minimum of three months available for immediate analysis. Access to audit logs and materials is to be recorded, with access permitted by only those persons with specific job-related needs and business justification.
+7. Audit logs file, materials and records are to be backed-up to centralised servers or media that is tightly controlled or onto media where it is difficult to alter (i.e. encrypted or held on write only media.)
+
+## Exceptions
+Exceptions to corporate policies can only occur with explicit approval from the [Information Security Steering Committee (ISSC)](Information-Security-Steering-Committee.md). An Exception Policy exists for the processing, approval and maintenance of such instances.
+
+## Violations
+1. A violation of the corporate Information Security Policy, as well as any supporting policy documents and Operating Standards will be investigated and consequentially may result in disciplinary action which could include the termination of employment for employees or the termination of contractual relations in the case of third parties, contractors or consultants.
+2. A violation of NexRaid’s policies and/or misuse of its systems, applications and information may also be a breach of various legal and regulatory obligations. Consequentially the company may at its sole discretion take legal action against an individual or organisation that is found to be in breach of these rules.
