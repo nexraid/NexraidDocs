@@ -1,0 +1,7 @@
+- groups:
+  - group: Legal Information
+    items:
+      - title: Nexraid Legal Information
+        link: /legal
+      - title: Nexraid End User License Agreement
+        link: /legal/eula
