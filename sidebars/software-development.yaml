@@ -1,5 +1,5 @@
 - groups:
-  - group: Data Protection
+  - group: Policy
     items:
-      - title: Data Loss Prevention Policy
-        link: /Data-Protection/Data-Loss-Prevention-Policy
+      - title: Software Development Policy
+        link: /Software-Development/Software-Development-Policy
