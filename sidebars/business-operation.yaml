@@ -1,0 +1,15 @@
+- groups:
+  - group: Policies
+    items:
+      - title: Asset Management Policy
+        link: /Business-Operation/Asset-Management-Policy
+      - title: Bring Your Own Device Policy
+        link: /Business-Operation/Bring-Your-Own-Device-Policy
+      - title: Employees Acceptable Usage Policy
+        link: /Business-Operation/Employees-Acceptable-Usage-Policy
+      - title: Incident Response Policy
+        link: /Business-Operation/Incident-Response-Policy
+      - title: Outsourcing Policy
+        link: /Business-Operation/Outsourcing-Policy
+      - title: Technology Refresh Policy
+        link: /Business-Operation/Technology-Refresh-Policy
