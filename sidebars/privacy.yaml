@@ -1,11 +1,5 @@
 - groups:
-  - group: Introduction
+  - group: Statement
     items:
-      - title: Contributing to Nexraid Documentation
-        link: /contribute
-  - group: Guide
-    items:
-      - title: Contributor Guide
-        link: /contribute/contributor-guide
-      - title: GitHub Account Setup
-        link: /Contribute/github-account-setup
+      - title: Nexraid-Privacy-Statement
+        link: /privacy
