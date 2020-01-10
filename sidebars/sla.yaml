@@ -1,11 +1,9 @@
 - groups:
-  - group: Introduction
+  - group: SLA
     items:
-      - title: Contributing to Nexraid Documentation
-        link: /contribute
-  - group: Guide
-    items:
-      - title: Contributor Guide
-        link: /contribute/contributor-guide
-      - title: GitHub Account Setup
-        link: /Contribute/github-account-setup
+      - title: Overview
+        link: /Service-Level-Agreement/Overview
+      - title: Incident Severity Level
+        link: /Service-Level-Agreement/Incident-Severity-Level
+      - title: Incident Response Time
+        link: /Service-Level-Agreement/Incident-Response-Time

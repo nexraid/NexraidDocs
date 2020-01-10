@@ -1,0 +1,33 @@
+- groups:
+  - group: Policy
+    items:
+      - title: Information Security Policy
+        link: /Information-Security/Information-Security-Policy
+      - title: Access Control Policy
+        link: /Information-Security/Access-Control-Policy
+      - title: Enterprise Key Management Policy
+        link: /Information-Security/Enterprise-Key-Management-Policy
+      - title: Network Security Policy
+        link: /Information-Security/Network-Security-Policy
+      - title: Physical Security Policy
+        link: /Information-Security/Physical-Security-Policy
+      - title: System Security Policy
+        link: /Information-Security/System-Security-Policy
+      - title: Security Monitoring and Logging Policy
+        link: /Information-Security/Security-Monitoring-and-Logging-Policy
+  - group: Information Security Committee
+    items:
+      - title: Information Security Steering Committee
+        link: /Information-Security/Information-Security-Steering-Committee
+      - title: Security-Awareness-Training
+        link: /Information-Security/Security Awareness Training
+  - group: Configuration Standard
+    items:
+      - title: Firewall and Router Configuration Standard
+        link: /Information-Security/Firewall-and-Router-Configuration-Standard
+      - title: System Configuration Standard
+        link: /Information-Security/System-Configuration-Standard
+      - title: Password Guideline
+        link: /Information-Security/Password-Guideline
+      - title: Penetration Testing Methodology
+        link: /Information-Security/Penetration-Testing-Methodology

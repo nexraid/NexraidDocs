@@ -1,11 +1,19 @@
 - groups:
-  - group: Introduction
+  - group: Statement
     items:
-      - title: Contributing to Nexraid Documentation
-        link: /contribute
-  - group: Guide
+      - title: Data Protection Statement for Customer
+        link: /Data-Protection/Statement-for-Customer
+      - title: Data Protection Statement for Employee
+        link: /Data-Protection/Statement-for-Employee
+      - title: Data Protection Statement for Job Applicants
+        link: /Data-Protection/Statement-for-Job-Applicants
+  - group: Policy
     items:
-      - title: Contributor Guide
-        link: /contribute/contributor-guide
-      - title: GitHub Account Setup
-        link: /Contribute/github-account-setup
+      - title: Data Protection Policy
+        link: /Data-Protection/Data-Protection-Policy
+      - title: Data Loss Prevention Policy
+        link: /Data-Protection/Data-Loss-Prevention-Policy
+      - title: Data Processor Agreement
+        link: /Data-Protection/Data-Processor-Agreement
+      - title: Credit Card Information Management Policy
+        link: /Data-Protection/Credit-Card-Information-Management-Policy
