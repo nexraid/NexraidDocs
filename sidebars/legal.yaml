@@ -2,6 +2,20 @@
   - group: Legal Information
     items:
       - title: Nexraid Legal Information
-        link: /legal
+        link: /Legal
+  - group: Agreement
+    items:
+      - title: Nexraid Customer Agreement
+        link: /Legal/Customer-Agreement
+  - group: License
+    items:
       - title: Nexraid End User License Agreement
-        link: /legal/eula
+        link: /Legal/License/EULA
+  - group: License Eligibility
+    items:
+      - title: Education License Eligibility
+        link: /Legal/License/License-Eligibility/Education
+      - title: Government License Agreement
+        link: /Legal/License/License-Eligibility/Government
+      - title: Non-Profit License Agreement
+        link: /Legal/License/License-Eligibility/Non-Profit
