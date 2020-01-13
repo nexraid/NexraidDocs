@@ -11,3 +11,11 @@
         link: /Contribute/github-account-setup
       - title: Nexraid Docs Template
         link: /Contribute/Nexraid-Docs-Template
+  - group: Tools
+    items:
+      - title: Site Report
+        link: /report
+      - title: Page Preview
+        link: /edit
+      - title: Invalid Test URL
+        link: /No-Such-Page-Test
