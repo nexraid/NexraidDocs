@@ -3,7 +3,17 @@
     items:
       - title: Support Overview
         link: /Support/Overview
+  - group: Support Information
+    items:
       - title: Support Contact Options
         link: /Support/Contact-Options
       - title: Product Support Lifecycle
         link: /Support/Product-Support-Lifecycle
+  - group: Service Level Agreement
+    items:
+      - title: Overview
+        link: /Support/Service-Level-Agreement/Overview
+      - title: Incident Severity Level
+        link: /Support/Service-Level-Agreement/Incident-Severity-Level
+      - title: Incident Response Time
+        link: /Support/Service-Level-Agreement/Incident-Response-Time
