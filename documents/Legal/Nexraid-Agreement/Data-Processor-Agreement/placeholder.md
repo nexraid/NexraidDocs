@@ -1,8 +1,8 @@
 ---
 uuid: eb15df3e-1790-4efc-abd4-b31aef09ecb7
-draft: false
-title: "TODO"
-path: /Data-Protection/TODO
+draft: true
+title: "Data Processor Agreement"
+path: /Legal/Nexraid-Agreement/Data-Processor-Agreement
 description: "TODO"
 keywords: 
   - data-protection

@@ -2,8 +2,10 @@
   - group: Introduction
     items:
       - title: Nexraid Culture
-        link: /Culture
-  - group: Statement
+        link: /Culture/Overview
+  - group: Our Culture
     items:
       - title: Equal Opportunities Statement
         link: /Culture/Equal-Opportunities-Statement
+      - title: Code of Conduct
+        link: /Culture/Code-of-Conduct

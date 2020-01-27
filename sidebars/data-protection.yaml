@@ -1,4 +1,12 @@
 - groups:
+  - group: Policy
+    items:
+      - title: Data Protection Policy
+        link: /Data-Protection/Data-Protection-Policy
+      - title: Data Loss Prevention Policy
+        link: /Data-Protection/Data-Loss-Prevention-Policy
+      - title: Credit Card Information Management Policy
+        link: /Data-Protection/Credit-Card-Information-Management-Policy
   - group: Statement
     items:
       - title: Data Protection Statement for Customer
@@ -7,13 +15,7 @@
         link: /Data-Protection/Statement-for-Employee
       - title: Data Protection Statement for Job Applicants
         link: /Data-Protection/Statement-for-Job-Applicants
-  - group: Policy
+  - group: Agreement
     items:
-      - title: Data Protection Policy
-        link: /Data-Protection/Data-Protection-Policy
-      - title: Data Loss Prevention Policy
-        link: /Data-Protection/Data-Loss-Prevention-Policy
       - title: Data Processor Agreement
-        link: /Data-Protection/Data-Processor-Agreement
-      - title: Credit Card Information Management Policy
-        link: /Data-Protection/Credit-Card-Information-Management-Policy
+        link: /Legal/Nexraid-Agreement/Data-Processor-Agreement
