@@ -18,8 +18,8 @@
   - group: License Eligibility
     items:
       - title: Education License Eligibility
-        link: /Legal/License/License-Eligibility/Education
+        link: /License/License-Eligibility/Education
       - title: Government License Eligibility
-        link: /Legal/License/License-Eligibility/Government
+        link: /License/License-Eligibility/Government
       - title: Non-Profit License Eligibility
-        link: /Legal/License/License-Eligibility/Non-Profit
+        link: /License/License-Eligibility/Non-Profit
