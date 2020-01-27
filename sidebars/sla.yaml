@@ -1,9 +1,0 @@
-- groups:
-  - group: SLA
-    items:
-      - title: Overview
-        link: /Service-Level-Agreement/Overview
-      - title: Incident Severity Level
-        link: /Service-Level-Agreement/Incident-Severity-Level
-      - title: Incident Response Time
-        link: /Service-Level-Agreement/Incident-Response-Time
