@@ -2,13 +2,13 @@
   - group: Introduction
     items:
       - title: Contributing to Nexraid Documentation
-        link: /contribute
+        link: /Contribute/Contributing-to-Nexraid-Documentation
   - group: Guide
     items:
       - title: Contributor Guide
-        link: /contribute/contributor-guide
+        link: /Contribute/Contributor-Guide
       - title: GitHub Account Setup
-        link: /Contribute/github-account-setup
+        link: /Contribute/GitHub-Account-Setup
       - title: Nexraid Docs Template
         link: /Contribute/Nexraid-Docs-Template
   - group: Internal Tools
