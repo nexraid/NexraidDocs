@@ -5,7 +5,7 @@ title: "TODO"
 path: /Data-Protection/TODO
 description: "TODO"
 keywords: 
-  - dataProtection
+  - data-protection
   - dlp
   - prevention
   - data
@@ -14,7 +14,7 @@ keywords:
   - guideline
   - nexraid
   - docs
-  - openSource
+  - open-source
 sidebar: data-protection
 date: 2020-01-10
 version_date: 2020-01-10
