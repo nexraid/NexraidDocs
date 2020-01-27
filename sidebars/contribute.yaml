@@ -11,11 +11,17 @@
         link: /Contribute/github-account-setup
       - title: Nexraid Docs Template
         link: /Contribute/Nexraid-Docs-Template
-  - group: Tools
+  - group: Internal Tools
     items:
+      - title: Internal Tools Overview
+        link: /internal/tools
       - title: Site Report
-        link: /report
+        link: /internal/report
+      - title: Nexraid Docs Icons
+        link: /internal/icon
       - title: Page Preview
-        link: /edit
+        link: /internal/edit
+      - title: Page Builder
+        link: /internal/build
       - title: Invalid Test URL
-        link: /No-Such-Page-Test
+        link: /internal/No-Such-Page-Test       
