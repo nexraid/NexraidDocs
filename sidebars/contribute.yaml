@@ -14,12 +14,14 @@
   - group: Internal Tools
     items:
       - title: Internal Tools Overview
-        link: /internal/tools
+        link: /internal
       - title: Site Report
-        link: /internal/report
-      - title: Nexraid Docs Icons
+        link: /internal/report/pages
+      - title: Tag Report
+        link: /internal/report/tags
+      - title: Icon Explorer
         link: /internal/icon
-      - title: Page Preview
+      - title: Markdown Preview
         link: /internal/edit
       - title: Page Builder
         link: /internal/build
