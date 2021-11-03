@@ -1,0 +1,1 @@
+We generally do not transfer your personal data to countries outside of Singapore. However, if we do so, we will obtain your consent for the transfer to be made and will take steps to ensure that your personal data continues to receive a standard of protection that is at least comparable to that provided under the PDPA.

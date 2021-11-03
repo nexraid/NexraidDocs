@@ -1,0 +1,2 @@
+1. We may retain your personal data for as long as it is necessary to fulfil the purposes for which they were collected, or as required or permitted by applicable laws.
+2. We will cease to retain your personal data, or remove the means by which the data can be associated with you, as soon as it is reasonable to assume that such retention no longer serves the purposes for which the personal data were collected, and are no longer necessary for legal or business purposes.
