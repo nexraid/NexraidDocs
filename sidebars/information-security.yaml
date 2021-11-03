@@ -1,22 +1,60 @@
 - groups:
   - group: Policy
     items:
-      - title: Information Security Policy
-        link: /Information-Security/Information-Security-Policy
+      - title: Acceptable Use Policy
+        link: /Information-Security/Acceptable-Use-Policy
       - title: Access Control Policy
         link: /Information-Security/Access-Control-Policy
+      - title: Capacity Management Policy
+        link: /Information-Security/Capacity-Management-Policy
+      - title: Change Management Policy
+        link: /Information-Security/Change-Management-Policy
+      - title: Clear Desk and Clear Screen Policy
+        link: /Information-Security/Clear-Desk-and-Clear-Screen-Policy
+      - title: Cryptographic Policy
+        link: /Information-Security/Cryptographic-Policy
+      - title: Data Backup Policy
+        link: /Information-Security/Data-Backup-Policy
+      - title: Disposal of Information Media and Equipment Policy
+        link: /Information-Security/Disposal-of-Information-Media-and-Equipment-Policy
       - title: Enterprise Key Management Policy
         link: /Information-Security/Enterprise-Key-Management-Policy
+      - title: Equipment Security Policy
+        link: /Information-Security/Equipment-Security-Policy
+      - title: External Party Management Policy
+        link: /Information-Security/External-Party-Management-Policy
+      - title: Firewall and Router Configuration Standard
+        link: /Information-Security/Firewall-and-Router-Configuration-Standard
+      - title: Human Resource Security Policy
+        link: /Information-Security/Human-Resource-Security-Policy
       - title: Information Classification Policy
         link: /Information-Security/Information-Classification-Policy
+      - title: Information Security Policy
+        link: /Information-Security/Information-Security-Policy
+      - title: Mobile Computing and Teleworking Policy
+        link: /Information-Security/Mobile-Computing-and-Teleworking-Policy
+      - title: Network Management Policy
+        link: /Information-Security/Network-Management-Policy
       - title: Network Security Policy
         link: /Information-Security/Network-Security-Policy
+      - title: Notification of Data Breach Involving PII Protection Policy
+        link: /Information-Security/Notification-of-Data-Breach-Involving-PII-Protection-Policy
+      - title: Password Management Policy
+        link: /Information-Security/Password-Management-Policy
+      - title: Patching and Anti-Virus Management Policy
+        link: /Information-Security/Patching-and-Anti-Virus-Management-Policy
       - title: Physical Security Policy
         link: /Information-Security/Physical-Security-Policy
-      - title: System Security Policy
-        link: /Information-Security/System-Security-Policy
+      - title: Privacy and PII Protection Policy
+        link: /Information-Security/Privacy-and-PII-Protection-Policy
       - title: Security Monitoring and Logging Policy
         link: /Information-Security/Security-Monitoring-and-Logging-Policy
+      - title: System Logging and Clock Synchronization Policy
+        link: /Information-Security/System-Logging-and-Clock-Synchronization-Policy
+      - title: System Security Policy
+        link: /Information-Security/System-Security-Policy
+      - title: User Security Policy
+        link: /Information-Security/User-Security-Policy
   - group: Information Security Committee
     items:
       - title: Information Security Steering Committee
@@ -25,8 +63,6 @@
         link: /Information-Security/Security Awareness Training
   - group: Configuration Standard
     items:
-      - title: Firewall and Router Configuration Standard
-        link: /Information-Security/Firewall-and-Router-Configuration-Standard
       - title: System Configuration Standard
         link: /Information-Security/System-Configuration-Standard
       - title: Password Guideline
