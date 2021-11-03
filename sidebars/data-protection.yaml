@@ -7,14 +7,14 @@
         link: /Data-Protection/Data-Loss-Prevention-Policy
       - title: Credit Card Information Management Policy
         link: /Data-Protection/Credit-Card-Information-Management-Policy
-  - group: Statement
+  - group: Notice
     items:
-      - title: Data Protection Statement for Customer
-        link: /Data-Protection/Statement-for-Customer
-      - title: Data Protection Statement for Employee
-        link: /Data-Protection/Statement-for-Employee
-      - title: Data Protection Statement for Job Applicants
-        link: /Data-Protection/Statement-for-Job-Applicants
+      - title: Data Protection Notice for Customer
+        link: /Data-Protection/Notice-for-Customer
+      - title: Data Protection Notice for Employees
+        link: /Data-Protection/Notice-for-Employees
+      - title: Data Protection Notice for Job Applicants
+        link: /Data-Protection/Notice-for-Job-Applicants
   - group: Agreement
     items:
       - title: Data Processor Agreement
