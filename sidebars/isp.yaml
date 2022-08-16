@@ -1,0 +1,51 @@
+- groups:
+  - group: ISMS Manual
+    items:
+      - title: ISMS Manual
+        link: /ISMS/ISMS-Manual
+  - group: Information Security Policy
+    items:
+      - title: ISP01 - Acceptable Use Policy
+        link: /IPS/ISP01-Acceptable-Use-Policy
+      - title: ISP02 - Access Management Policy
+        link: /IPS/ISP02-Access Management Policy
+      - title: ISP03 - Data Backup Policy
+        link: /IPS/ISP03 Data Backup Policy
+      - title: ISP04 - Capacity Management Policy
+        link: /IPS/ISP04-Capacity-Management-Policy
+      - title: ISP05 - Clear Desk and Clear Screen Policy
+        link: /IPS/ISP05-Clear-Desk-and-Clear-Screen-Policy
+      - title: ISP06 - Cryptographic Policy
+        link: /IPS/ISP06-Cryptographic-Policy
+      - title: ISP07 - Disposal of Information Media and Equipment Policy
+        link: /IPS/ISP07-Disposal-of-Information-Media-and-Equipment-Policy
+      - title: ISP08 - Equipment Security Policy
+        link: /IPS/ISP08-Equipment-Security-Policy
+      - title: ISP09 - External Party Management Policy
+        link: /IPS/ISP09-External-Party-Management-Policy
+      - title: ISP10 - Human Resource Security Policy
+        link: /IPS/ISP10-Human-Resource-Security-Policy
+      - title: ISP11 - Information Classification Policy
+        link: /IPS/ISP11-Information-Classification-Policy
+      - title: ISP12 - Mobile Computing and Teleworking Policy
+        link: /IPS/ISP12-Mobile-Computing-and-Teleworking-Policy
+      - title: ISP13 - Network Management Policy
+        link: /IPS/ISP13-Network-Management-Policy
+      - title: ISP14 - Password Management Policy
+        link: /IPS/ISP14-Password-Management-Policy
+      - title: ISP15 - Patching and Anti-Virus Management Policy
+        link: /IPS/ISP15-Patching-and-Anti-Virus-Management-Policy
+      - title: ISP16 - Physical Security Management Policy
+        link: /IPS/ISP16-Physical-Security-Management-Policy
+      - title: ISP17 - System Logging and Clock Synchronization Policy
+        link: /IPS/ISP17-System-Logging-and-Clock-Synchronization-Policy
+      - title: ISP18 - Change Management Policy
+        link: /IPS/ISP18-Change-Management-Policy
+      - title: ISP19 - User Security Policy
+        link: /IPS/ISP19-User-Security-Policy
+      - title: ISP20 - Secure Software Development Policy
+        link: /IPS/ISP20-Secure-Software-Development-Policy
+      - title: ISP21 - Privacy and PII Protection Policy
+        link: /IPS/ISP21-Privacy-and-PII-Protection-Policy
+      - title: ISP22 - Notification of Data Breach Involving PII Protection Policy
+        link: /IPS/ISP22-Notification-of-Data-Breach-Involving-PII-Protection-Policy

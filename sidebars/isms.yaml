@@ -1,0 +1,23 @@
+- groups:
+  - group: ISMS Manual
+    items:
+      - title: ISMS Manual
+        link: /ISMS/ISMS-Manual
+  - group: ISMS Procedure Details
+    items:
+      - title: ISMSP01 - Internal Auditing
+        link: /ISMS/ISMSP01-Internal-Auditing
+      - title: ISMSP02 - Non-Conformances and Corrective Actions
+        link: /ISMS/ISMSP02-Non-Conformances-and-Corrective-Actions
+      - title: ISMSP03 - Communications
+        link: /ISMS/ISMSP03-Communications
+      - title: ISMSP04 - Document Control
+        link: /ISMS/ISMSP04-Document-Control
+      - title: ISMSP05 - Risk Methodology for Information Security and Privacy Risk
+        link: /ISMS/ISMSP05-Risk-Methodology-for-Information-Security-and-Privacy-Risk
+      - title: ISMSP06 - Management Review
+        link: /ISMS/ISMSP06-Management-Review
+      - title: ISMSP07 - Performance Monitoring
+        link: /ISMS/ISMSP07-Performance-Monitoring
+      - title: ISMSP08 - Incident Management
+        link: /ISMS/ISMSP08-Incident-Management
