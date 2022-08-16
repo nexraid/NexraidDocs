@@ -1,21 +1,19 @@
 - groups:
-  - group: Policy
+  - group: Privacy Statement
     items:
-      - title: Data Protection Policy
-        link: /Data-Protection/Data-Protection-Policy
-      - title: Data Loss Prevention Policy
-        link: /Data-Protection/Data-Loss-Prevention-Policy
-      - title: Credit Card Information Management Policy
-        link: /Data-Protection/Credit-Card-Information-Management-Policy
-  - group: Notice
+      - title: Nexraid Privacy Statement
+        link: /Legal/Privacy-Statement
+  - group: Data Protection Notice
     items:
-      - title: Data Protection Notice for Customer
-        link: /Data-Protection/Notice-for-Customer
-      - title: Data Protection Notice for Employees
-        link: /Data-Protection/Notice-for-Employees
-      - title: Data Protection Notice for Job Applicants
-        link: /Data-Protection/Notice-for-Job-Applicants
-  - group: Agreement
+      - title: NTC01 - Notice for DPO Appointment
+        link: /Data-Protection/NTC01-Notice-for-DPO-Appointment
+      - title: NTC02 - Data Protection Notice for Customer
+        link: /Data-Protection/NTC02-Notice-for-Customer
+      - title: NTC03 - Data Protection Notice for Employees
+        link: /Data-Protection/NTC03-Notice-for-Employees
+      - title: NTC04 - Data Protection Notice for Job Applicants
+        link: /Data-Protection/NTC04-Notice-for-Job-Applicants
+  - group: Data Processing Agreement
     items:
-      - title: Data Processor Agreement
-        link: /Legal/Nexraid-Agreement/Data-Processor-Agreement
+      - title: Data Processing Agreement
+        link: /Legal/Data-Processing-Agreement
