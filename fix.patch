@@ -1,0 +1,264 @@
+diff --git a/documents/ISMS/ISMS-Manual/V1.md b/documents/ISMS/ISMS-Manual/V1.md
+index e96b431..0ce0db2 100644
+--- a/documents/ISMS/ISMS-Manual/V1.md
++++ b/documents/ISMS/ISMS-Manual/V1.md
+@@ -13,8 +13,8 @@ keywords:
+   - protection
+   - manual
+   - iso
+-  - 27001
+-  - 27701
++  - "27001"
++  - "27701"
+   - dptm
+   - ISMSP00
+   - nexraid
+@@ -387,4 +387,4 @@ References to Standard Requirements
+ | 8   | Roles and Responsibilities                          | 5.3 Organizational roles, responsibilities and authorities                                                                   |                           |         |
+ | 9   | Information Security Risk Management                | 6. Planning, <br/>  8. Operation                                                                                             |                           |         |
+ | 10  | Evaluation of the ISMS Effectiveness and Efficiency | 9. Performance evaluation <br/> 9.3 Management review, <br/> 5.1 Leadership                                                  |                           |         |
+-| 11  | Improvement and Corrective Actions                  | 10. Improvements                                                                                                             |                           |         |
+\ No newline at end of file
++| 11  | Improvement and Corrective Actions                  | 10. Improvements                                                                                                             |                           |         |
+diff --git a/documents/ISMS/ISMSP01-Internal-Auditing/V1.md b/documents/ISMS/ISMSP01-Internal-Auditing/V1.md
+index dd4a94c..5e7810b 100644
+--- a/documents/ISMS/ISMSP01-Internal-Auditing/V1.md
++++ b/documents/ISMS/ISMSP01-Internal-Auditing/V1.md
+@@ -13,8 +13,8 @@ keywords:
+   - security
+   - protection
+   - iso
+-  - 27001
+-  - 27701
++  - "27001"
++  - "27701"
+   - dptm
+   - procedure
+   - ISMSP01
+@@ -116,4 +116,4 @@ The ISMS Steering Committee will review the report and may assign the MR to foll
+ ## Records
+ 1. Completed Audit Schedule
+ 2. Completed Internal Audit Reports and Checklists
+-3. List of qualified Internal Auditors
+\ No newline at end of file
++3. List of qualified Internal Auditors
+diff --git a/documents/ISMS/ISMSP02-Non-Conformances-and-Corrective-Actions/V1.md b/documents/ISMS/ISMSP02-Non-Conformances-and-Corrective-Actions/V1.md
+index 1b02266..a68f44c 100644
+--- a/documents/ISMS/ISMSP02-Non-Conformances-and-Corrective-Actions/V1.md
++++ b/documents/ISMS/ISMSP02-Non-Conformances-and-Corrective-Actions/V1.md
+@@ -13,8 +13,8 @@ keywords:
+   - security
+   - protection
+   - iso
+-  - 27001
+-  - 27701
++  - "27001"
++  - "27701"
+   - dptm
+   - procedure
+   - ISMSP02
+@@ -61,4 +61,4 @@ manager: lunghao
+ The ISMS Steering Committee is to review all ISMS related failures, incidents, nonconformances and corrective action as part of their management review meeting or operational review meeting agenda.
+ 
+ ## Records
+-* Completed Non-conformance and Corrective Action Reports.
+\ No newline at end of file
++* Completed Non-conformance and Corrective Action Reports.
+diff --git a/documents/ISMS/ISMSP03-Communications/V2.md b/documents/ISMS/ISMSP03-Communications/V2.md
+index f0c7368..1c90e5c 100644
+--- a/documents/ISMS/ISMSP03-Communications/V2.md
++++ b/documents/ISMS/ISMSP03-Communications/V2.md
+@@ -13,8 +13,8 @@ keywords:
+   - security
+   - protection
+   - iso
+-  - 27001
+-  - 27701
++  - "27001"
++  - "27701"
+   - dptm
+   - procedure
+   - ISMSP03
+@@ -63,4 +63,4 @@ manager: lunghao
+ ## Records
+ 1. ISMS Policy
+ 2. Business Partner Audit List
+-3. Business Partner Survey / Feedback
+\ No newline at end of file
++3. Business Partner Survey / Feedback
+diff --git a/documents/ISMS/ISMSP04-Document-Control/V1.md b/documents/ISMS/ISMSP04-Document-Control/V1.md
+index 5b694d9..b4142c2 100644
+--- a/documents/ISMS/ISMSP04-Document-Control/V1.md
++++ b/documents/ISMS/ISMSP04-Document-Control/V1.md
+@@ -13,8 +13,8 @@ keywords:
+   - security
+   - protection
+   - iso
+-  - 27001
+-  - 27701
++  - "27001"
++  - "27701"
+   - dptm
+   - procedure
+   - ISMSP04
+@@ -75,4 +75,4 @@ minutes and resolutions.
+ 4. All records and corrections to errors in records should be approved by the relevant authorities and dated.
+ 
+ ## Document Master List
+-Please refer to XXX.
+\ No newline at end of file
++Please refer to XXX.
+diff --git a/documents/ISMS/ISMSP05-Risk-Methodology-for-Information-Security-and-Privacy-Risk/V2.md b/documents/ISMS/ISMSP05-Risk-Methodology-for-Information-Security-and-Privacy-Risk/V2.md
+index b79bf08..644035c 100644
+--- a/documents/ISMS/ISMSP05-Risk-Methodology-for-Information-Security-and-Privacy-Risk/V2.md
++++ b/documents/ISMS/ISMSP05-Risk-Methodology-for-Information-Security-and-Privacy-Risk/V2.md
+@@ -14,8 +14,8 @@ keywords:
+   - security
+   - protection
+   - iso
+-  - 27001
+-  - 27701
++  - "27001"
++  - "27701"
+   - dptm
+   - procedure
+   - ISMSP05
+@@ -613,4 +613,4 @@ Taken from ISO 27005 – Conduct an information security risk assessment
+ | Lack of Information Processing Facilities Authorization                                                | Theft of Media or Documents                  |
+ | Lack of Established Monitoring                                                                         | Theft of Media or Documents                  |
+ | Mechanisms for Security Breaches                                                                       | Unauthorised Use of Equipment                |
+-| Lack of Regular Management Reviews                                                                     | Unauthorised Use of Equipment                |
+\ No newline at end of file
++| Lack of Regular Management Reviews                                                                     | Unauthorised Use of Equipment                |
+diff --git a/documents/ISMS/ISMSP06-Management-Review/V2.md b/documents/ISMS/ISMSP06-Management-Review/V2.md
+index f9daac2..b451a39 100644
+--- a/documents/ISMS/ISMSP06-Management-Review/V2.md
++++ b/documents/ISMS/ISMSP06-Management-Review/V2.md
+@@ -13,8 +13,8 @@ keywords:
+   - security
+   - protection
+   - iso
+-  - 27001
+-  - 27701
++  - "27001"
++  - "27701"
+   - dptm
+   - procedure
+   - ISMSP06
+@@ -68,4 +68,4 @@ Extraordinary meetings of the Steering Committee may be called at any time to ad
+ 
+ ## Records
+ 1. Minutes of Management Review Meetings
+-2. Minutes of Extraordinary Management Meetings
+\ No newline at end of file
++2. Minutes of Extraordinary Management Meetings
+diff --git a/documents/ISMS/ISMSP07-Performance-Monitoring/V1.md b/documents/ISMS/ISMSP07-Performance-Monitoring/V1.md
+index f4080c7..eb309fc 100644
+--- a/documents/ISMS/ISMSP07-Performance-Monitoring/V1.md
++++ b/documents/ISMS/ISMSP07-Performance-Monitoring/V1.md
+@@ -13,8 +13,8 @@ keywords:
+   - security
+   - protection
+   - iso
+-  - 27001
+-  - 27701
++  - "27001"
++  - "27701"
+   - dptm
+   - procedure
+   - ISMSP07
+@@ -81,4 +81,4 @@ The MR is to complete a Monitoring Report after each measurement. The report is
+ 2. Completed Monitoring Report
+ 
+ ## Performance Monitoring & Measurement Matrix Table
+-![alt text](../../../media/images/Performance-Monitoring-Measurement-Matrix.png "Performance Monitoring & Measurement Matrix Table")
+\ No newline at end of file
++![alt text](../../../media/images/Performance-Monitoring-Measurement-Matrix.png "Performance Monitoring & Measurement Matrix Table")
+diff --git a/documents/ISMS/ISMSP08-Incident-Management/V1.md b/documents/ISMS/ISMSP08-Incident-Management/V1.md
+index 2f28e09..e352a6a 100644
+--- a/documents/ISMS/ISMSP08-Incident-Management/V1.md
++++ b/documents/ISMS/ISMSP08-Incident-Management/V1.md
+@@ -13,8 +13,8 @@ keywords:
+   - security
+   - protection
+   - iso
+-  - 27001
+-  - 27701
++  - "27001"
++  - "27701"
+   - dptm
+   - procedure
+   - ISMSP08
+@@ -77,4 +77,4 @@ Responsibility for the interpretation of this procedure lies with the Chairperso
+ 4. For the purpose of preventing reoccurrence of incidents similar or dissimilar to the incident experienced, the relevant HOD must plan and implement permanent preventative measures following the procedures defined in this provision:
+     1. Plan for Measures -- The HOD must conduct a causal analysis on the incident, plan permanent preventative measures, including technical/administrative measures and the assignment of cost and resources required to implement such measures, and submit them to the Incident Response Manager by revising the incident report as soon as necessary corrective action for the relevant incident have been completed.
+     2. Review the Plan -- The Incident Response Manager will review and approve, if acceptable, the analysis and prevention plan described on the incident report which is submitted from the HOD.
+-    4. Statistical Analysis – The Incident Response Manager, with the help of Mgt Rep shall conduct periodical statistical analyses on security incidents happened in the past to research the trend, causes, and business impact of the incidents from the viewpoint of business risk analysis and design action plans to be executed throughout the organization. The Management Representative shall report the results of such analysis and recommendations to the Managing Director.
+\ No newline at end of file
++    4. Statistical Analysis – The Incident Response Manager, with the help of Mgt Rep shall conduct periodical statistical analyses on security incidents happened in the past to research the trend, causes, and business impact of the incidents from the viewpoint of business risk analysis and design action plans to be executed throughout the organization. The Management Representative shall report the results of such analysis and recommendations to the Managing Director.
+diff --git a/documents/ISP/ISP01-Acceptable-Use-Policy/V3.md b/documents/ISP/ISP01-Acceptable-Use-Policy/V3.md
+index 32989d0..6360208 100644
+--- a/documents/ISP/ISP01-Acceptable-Use-Policy/V3.md
++++ b/documents/ISP/ISP01-Acceptable-Use-Policy/V3.md
+@@ -28,9 +28,7 @@ date: 2020-01-10
+ version_date: 2021-11-03
+ version_name: 3.0.0
+ version_changelog: Merge our original AUP with the version audited by ISO27001
+-author:
+-   - kiathan
+-   - lunghao
++author: kiathan & lunghao
+ manager: lunghao
+ ---
+ 
+@@ -173,4 +171,4 @@ Staff of the Company must not engage in any activities that are prohibited by th
+ 
+ ## Enforcement
+ 1. An employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment.
+-2. A violation of this policy by a temporary worker, contractor or vendor may result in the immediate termination of their contract or assignment with Nexraid.
+\ No newline at end of file
++2. A violation of this policy by a temporary worker, contractor or vendor may result in the immediate termination of their contract or assignment with Nexraid.
+diff --git a/documents/ISP/ISP01-Acceptable-Use-Policy/V4.md b/documents/ISP/ISP01-Acceptable-Use-Policy/V4.md
+index aca0016..38b389d 100644
+--- a/documents/ISP/ISP01-Acceptable-Use-Policy/V4.md
++++ b/documents/ISP/ISP01-Acceptable-Use-Policy/V4.md
+@@ -34,9 +34,7 @@ date: 2020-01-10
+ version_date: 2022-08-01
+ version_name: 4.0.0
+ version_changelog: Merge our original policy with the version audited by DPTM
+-author:
+-   - kiathan
+-   - lunghao
++author: kiathan & lunghao
+ manager: lunghao
+ ---
+ 
+@@ -180,4 +178,4 @@ Staff of the Company must not engage in any activities that are prohibited by th
+ 
+ ## Enforcement
+ 1. An employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment.
+-2. A violation of this policy by a temporary worker, contractor or vendor may result in the immediate termination of their contract or assignment with Nexraid.
+\ No newline at end of file
++2. A violation of this policy by a temporary worker, contractor or vendor may result in the immediate termination of their contract or assignment with Nexraid.
+diff --git a/documents/Information-Security/Acceptable-Use-Policy/V3.md b/documents/Information-Security/Acceptable-Use-Policy/V3.md
+index 32989d0..6360208 100644
+--- a/documents/Information-Security/Acceptable-Use-Policy/V3.md
++++ b/documents/Information-Security/Acceptable-Use-Policy/V3.md
+@@ -28,9 +28,7 @@ date: 2020-01-10
+ version_date: 2021-11-03
+ version_name: 3.0.0
+ version_changelog: Merge our original AUP with the version audited by ISO27001
+-author:
+-   - kiathan
+-   - lunghao
++author: kiathan & lunghao
+ manager: lunghao
+ ---
+ 
+@@ -173,4 +171,4 @@ Staff of the Company must not engage in any activities that are prohibited by th
+ 
+ ## Enforcement
+ 1. An employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment.
+-2. A violation of this policy by a temporary worker, contractor or vendor may result in the immediate termination of their contract or assignment with Nexraid.
+\ No newline at end of file
++2. A violation of this policy by a temporary worker, contractor or vendor may result in the immediate termination of their contract or assignment with Nexraid.
