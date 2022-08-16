@@ -21,3 +21,7 @@
         link: /ISMS/ISMSP07-Performance-Monitoring
       - title: ISMSP08 - Incident Management
         link: /ISMS/ISMSP08-Incident-Management
+  - group: Information Security Policy
+    items:
+      - title: ISP01 - Acceptable Use Policy
+        link: /ISP/ISP01-Acceptable-Use-Policy
