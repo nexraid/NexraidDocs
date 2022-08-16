@@ -31,7 +31,12 @@
 | ISP20   | Secure Software Development Policy               | 2        | 2022/08/01     | Merge our original policy with the version audited by DPTM |
 | ISP21   | Privacy and (PII) Protection Policy              | 2        | 2022/08/01     | Merge our original policy with the version audited by DPTM |
 | ISP22   | Notification of Data Breach involving PII Policy | 2        | 2022/08/01     | Merge our original policy with the version audited by DPTM |
+| GL01    | Password Guideline                               | 2        | 2022/08/01     | Merge our original policy with the version audited by DPTM |
 |         | Legal Template Register                          | 1        | 2021/07/01     | Initial Draft                                              |
 |         | Nexraid Risk Register                            | 1        | 2021/07/01     | Initial Draft                                              |
 |         | Form Template Register                           | 1        | 2021/07/01     | Initial Draft                                              |
 |         | Audit Checklist Register                         | 1        | 2021/07/01     | Initial Draft                                              |
+| NTC01   | Notice for DPO Appointment                       | 1        | 2022/08/01     | Initial Draft                                              |
+| NTC02   | Data Protection Notice for Customer              | 2        | 2022/08/01     | Initial Draft                                              |
+| NTC03   | Data Protection Notice for Employees             | 2        | 2022/08/01     | Initial Draft                                              |
+| NTC04   | Data Protection Notice for Job Applicants        | 2        | 2022/08/01     | Initial Draft                                              |
