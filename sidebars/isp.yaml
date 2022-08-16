@@ -3,6 +3,10 @@
     items:
       - title: ISMS Manual
         link: /ISMS/ISMS-Manual
+  - group: ISMS Procedure Details
+    items:
+      - title: ISMSP01 - Internal Auditing
+        link: /ISMS/ISMSP01-Internal-Auditing
   - group: Information Security Policy
     items:
       - title: ISP01 - Acceptable Use Policy
