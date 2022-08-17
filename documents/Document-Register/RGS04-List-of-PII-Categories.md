@@ -7,7 +7,6 @@
 * Share: allowed interally and/or externally for legitimate business purposes
 
 ### Examples
-* Name (First Name, Last Name, Surname, Maiden Name, Alias)
 * Business Designation (Role, Position or Title)
 * Business Telephone Number (Office, Work Direct Line)
 * Business Address
@@ -20,6 +19,7 @@
 * Share: allowed interally for legitimate business purposes. External sharing required authorization.
 
 ### Examples
+* Name (First Name, Last Name, Surname, Maiden Name, Alias)
 * Personal Email Address
 * Residential Address (Street, Zip, Postal Code, City)
 * Personal Telephone Number (Mobile Number)
