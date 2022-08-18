@@ -1,0 +1,11 @@
+- groups:
+  - group: Document Register
+    items:
+      - title: RGS01 - Document Master List
+        link: /Document-Register/RGS01-Document-Master-List
+      - title: RGS04 - List of PII Categories
+        link: /Document-Register/RGS04-List-of-PII-Categories
+      - title: RGS06 - Post Data Breach Evaluation Report
+        link: /Document-Register/RGS06-Post-Data-Breach-Evaluation-Report
+      - title: RGS07 - Data Breach Response Checklist
+        link: /Document-Register/RGS07-Data-Breach-Response-Checklist

@@ -1,6 +1,45 @@
-# List of PII Categories
+---
+uuid: bb01adc4-c59b-441b-b052-64c4c0bc4ed8
+draft: false
+title: "RGS04 - List of PII Categories"
+path: /Document-Register/RGS04-List-of-PII-Categories
+additional_path:
+    - "/Document-Register/RGS04"
+    - "/Document-Register/List-of-PII-Categories"
+description: "This document list down all the PII categoriese."
+keywords: 
+  - RGS04
+  - document
+  - register
+  - list
+  - pii
+  - category
+  - nexraid
+  - docs
+  - open-source
+sidebar: document-register
+date: 2022-08-18
+version_changelog: Initial Draft
+author: danny
+manager: lunghao
+---
+
+# Nexraid Document Register RGS04 - List of PII Categories
+
+## Document Details
+* Doc ID: RGS04
+* Doc Title: List of PII Categories
+* Revision: N.A. (Consistently Updating)
+* Author: Danny Tan
+* Approver: Liu Lung Hao
 
 ## Business Communication Information (BCI)
+
+### Definition of BCI (IMPORTANT!!!)
+Business Contact Information (BCI) is defined in the PDPA as “an individual’s name, position name or title, business telephone number, business address, business electronic mail address or business fax number and any other similar information about the individual, not provided by the individual solely for his personal purposes”.
+
+> Generally, information on a business card given in a business setting is considered as BCI and excluded from the scope of the Data Protection provisions of the PDPA. However, if an individual gives out his business card information for a personal purpose, such as for signing up for a gym membership, the information will not be treated as BCI and the Data Protection provisions in the PDPA will apply.
+
 ### Authorization
 * Collection: allowed for legitimate business purposes
 * Use: allowed for legitimate business purposes
@@ -11,6 +50,7 @@
 * Business Telephone Number (Office, Work Direct Line)
 * Business Address
 * Business Email Address (An Email Address with Company Domain Name)
+
 
 ## General Personal Data
 ### Authorization
@@ -38,6 +78,7 @@
 * Education History (Professional Qualifications)
 * Advertising Identifier
 
+
 ## Sensitive Personal Data
 ### Authorization
 * Collection: Not allowed unless necessary
@@ -51,6 +92,7 @@
 * Financial Information (Salary, Bonus)
 * Precise Location Data (within 5 Kilometres in radius)
 * Signin Credential (Password and Pin)
+
 
 ## Special Personal Data Under GDPR
 ### Authorization

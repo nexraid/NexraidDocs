@@ -1,3 +1,40 @@
+---
+uuid: a7b53fc2-d0de-47a2-853d-718e56d1baae
+draft: false
+title: "RGS01 - Document Master List"
+path: /Document-Register/RGS01-Document-Master-List
+additional_path:
+    - "/Document-Register/RGS01"
+    - "/Document-Register/Document-Master-List"
+description: "This document list down all the documents available in Nexraid inventory."
+keywords: 
+  - RGS01
+  - document
+  - register
+  - list
+  - master
+  - nexraid
+  - docs
+  - open-source
+sidebar: document-register
+date: 2022-08-18
+version_changelog: Initial Draft
+author: danny
+manager: lunghao
+---
+
+
+# Nexraid Document Register RGS01 - Document Master List
+
+## Document Details
+* Doc ID: RGS01
+* Doc Title: Document Master List
+* Revision: N.A. (Consistently Updating)
+* Author: Danny Tan
+* Approver: Liu Lung Hao
+
+## Document Master List
+
 | Doc ID  | Title                                                                       | Revision | Effective Date | Remark                                                     |
 |:-------:|:----------------------------------------------------------------------------|:--------:|:--------------:|:----------------------------------------------------------:|
 | ISMSP00 | Nexraid ISMS Manual                                                         | 1        | 2021/07/01     | Initial Draft                                              |
