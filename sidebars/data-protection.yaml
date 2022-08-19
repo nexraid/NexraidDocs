@@ -17,3 +17,7 @@
     items:
       - title: Data Processing Agreement
         link: /Legal/Data-Processing-Agreement
+  - group: ISMS Manual
+    items:
+      - title: ISMS Manual
+        link: /ISMS/ISMS-Manual
