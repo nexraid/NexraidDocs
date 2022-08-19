@@ -5,14 +5,12 @@
         link: /Legal/Overview
       - title: Nexraid Privacy Policy
         link: /Legal/Privacy-Policy
-  - group: Customer Agreement
+  - group: Nexraid Agreement
     items:
       - title: General Customer Agreement
         link: /Legal/Customer-Agreement/General
       - title: End User License Agreement
         link: /Legal/License/EULA
-  - group: Nexraid Agreement
-    items:
       - title: Data Processor Agreement
         link: /Legal/Nexraid-Agreement/Data-Processor-Agreement
   - group: License Eligibility

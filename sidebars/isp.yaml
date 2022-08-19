@@ -53,3 +53,9 @@
         link: /ISP/ISP21-Privacy-and-PII-Protection-Policy
       - title: ISP22 - Notification of Data Breach Involving PII Protection Policy
         link: /ISP/ISP22-Notification-of-Data-Breach-Involving-PII-Protection-Policy
+      - title: ISP23 - Data Protection Impact Assessments
+        link: /ISP/ISP23-Data-Protection-Impact-Assessments
+  - group: Data Protection Notice
+    items:
+      - title: NTC01 - Notice for DPO Appointment
+        link: /Data-Protection/NTC01-Notice-for-DPO-Appointment

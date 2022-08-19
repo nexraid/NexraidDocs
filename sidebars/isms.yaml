@@ -25,3 +25,7 @@
     items:
       - title: ISP01 - Acceptable Use Policy
         link: /ISP/ISP01-Acceptable-Use-Policy
+  - group: Data Protection Notice
+    items:
+      - title: NTC01 - Notice for DPO Appointment
+        link: /Data-Protection/NTC01-Notice-for-DPO-Appointment
