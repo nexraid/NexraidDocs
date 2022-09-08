@@ -3,3 +3,13 @@
     items:
       - title: BP01 - Data Breach Management Plan
         link: /Business-Process/BP01-Data-Breach-Management-Plan
+      - title: BP02 - Data Retrieval Process
+        link: /Business-Process/BP02-Data-Retrieval-Process
+      - title: BP03 - Data Correction Request Process
+        link: /Business-Process/BP03-Data-Correction-Request-Process
+      - title: BP04 - Queries, Complaint and Dispute Handling Process
+        link: /Business-Process/BP04-Queries-Complaint-and-Dispute-Handling-Process
+      - title: BP05 - Public Agencies Handling Process
+        link: /Business-Process/BP05-Public-Agencies-Handling-Process
+      - title: BP06 - Withdrawal of Consent
+        link: /Business-Process/BP06-Withdrawal-of-Consent
