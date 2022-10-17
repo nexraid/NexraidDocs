@@ -1,0 +1,21 @@
+name: check-documents
+on:
+  - push
+  - pull_request
+  - workflow_dispatch
+jobs:
+  run-checker:
+    runs-on: ubuntu-latest
+    if: ${{ (github.event_name != 'pull_request' || github.event.action != 'synchronize') }}
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          cache: 'yarn'
+          cache-dependency-path: checker/yarn.lock
+      - name: Install dependencies
+        run: cd checker && yarn install
+      - name: Run checkers
+        run: cd checker && yarn run test
+        timeout-minutes: 1
